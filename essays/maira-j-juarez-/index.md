@@ -7,7 +7,7 @@
 layout: essay
 
 # Title of your project
-title: "Template: A susnset Story"
+title: "A susnset Story"
 
 # Your name and course (shown under the title)
 student: "Your Name"
